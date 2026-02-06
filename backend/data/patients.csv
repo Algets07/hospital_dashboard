@@ -1,0 +1,6 @@
+patient_id,age,gender,insurance_type
+1,45,M,Private
+2,60,F,Govt
+3,30,M,Private
+4,10,F,Govt
+5,70,M,Private

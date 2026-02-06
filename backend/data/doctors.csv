@@ -1,0 +1,4 @@
+doctor_id,department,total_hours,booked_hours
+1,Cardiology,160,120
+2,Oncology,160,150
+3,Emergency,160,140
